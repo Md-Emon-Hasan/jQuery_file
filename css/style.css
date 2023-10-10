@@ -1,0 +1,266 @@
+
+/** FADE **/
+
+.box1{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.box2{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: green;
+}
+
+.box3{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
+
+.box4{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: red;
+	display: none;
+}
+
+.box5{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: green;
+	display: none;
+}
+
+.box6{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: blue;
+	display: none;
+}
+
+.box7{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.box8{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: green;
+}
+
+.box9{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
+
+.box10{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.box11{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: green;
+}
+
+.box12{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: blue;
+}
+
+/** SLIDE **/
+
+.a26{
+	text-align: center;
+	color: red;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: green;
+	font-size: 25px;
+	margin: auto;
+}
+
+.a27{
+	margin: auto;
+	text-align: center;
+	color: black;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: powderblue;
+	display: none;
+}
+
+.a28{
+	text-align: center;
+	color: red;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: green;
+	font-size: 25px;
+	margin: auto;
+}
+
+.a29{
+	margin: auto;
+	text-align: center;
+	color: black;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: powderblue;
+	display: none;
+}
+
+/** ANIMATE **/
+
+.a31{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: relative;
+}
+
+.a33{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: relative;
+}
+
+.a35{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: relative;
+}
+
+.a37{
+	height: 100px;
+	width: 100px;
+	background: red;
+	position: relative;
+}
+
+/** STOP **/
+
+.a38{
+	text-align: center;
+	color: red;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: green;
+	font-size: 25px;
+	margin: auto;
+}
+
+.a39{
+	margin: auto;
+	text-align: center;
+	color: black;
+	height: auto;
+	width: 500px;
+	padding: 10px;
+	background: powderblue;
+	display: none;
+	overflow: hidden;
+}
+
+/** REMOVE **/
+
+.a61{
+	background: red;
+	color: white;
+	height: 100px;
+	width: auto;
+	overflow: hidden;
+	margin: auto;
+	border: 2px solid green;
+}
+
+.a63{
+	background: red;
+	color: white;
+	height: 100px;
+	width: auto;
+	overflow: hidden;
+	margin: auto;
+	border: 2px solid green;
+}
+
+/** CSS CLASSES **/
+
+.a65{
+	color: purple;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	text-shadow: 3px 3px 4px indigo;
+	font-size: 20px;
+	font-family: itlic;
+	font-style: italic;
+}
+
+.a69{
+	color: purple;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	text-shadow: 3px 3px 4px indigo;
+	font-size: 20px;
+	font-family: itlic;
+	font-style: italic;
+}
+
+.a73{
+	color: purple;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	text-shadow: 3px 3px 4px indigo;
+	font-size: 20px;
+	font-family: itlic;
+	font-style: italic;
+}
+
+/** DIMENSION **/
+
+.a77{
+	background: indigo;
+	border: 5px solid blue;
+	height: 150px;
+	width: 150px;
+}
+
+/** DIMENSION **/
+
+.ancestors{
+	display: block;
+	border: 2px solid green;
+	color: green;
+	padding: 5px;
+	margin: 15px;
+}
+
+/** DESCENDANTS **/
+
